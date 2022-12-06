@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Blessing Uba
 ====================================================================================================================================
 
-Aspiring Frontend Developer
+ Frontend Developer
 ---------------------------
 
 I'm an Aspiring Frontend Developer working currently as a Quality Control Officer. I'm a graduate of Polymer Engineering. I'm passionate and career minded and love learning and building new things and in so doing, providing solution to problems and developing myself.
